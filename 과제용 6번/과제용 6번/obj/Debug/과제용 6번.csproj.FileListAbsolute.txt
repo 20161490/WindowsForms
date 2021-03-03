@@ -1,0 +1,10 @@
+C:\Users\firstpc\source\repos\과제용 6번\과제용 6번\bin\Debug\과제용 6번.exe.config
+C:\Users\firstpc\source\repos\과제용 6번\과제용 6번\bin\Debug\과제용 6번.exe
+C:\Users\firstpc\source\repos\과제용 6번\과제용 6번\bin\Debug\과제용 6번.pdb
+C:\Users\firstpc\source\repos\과제용 6번\과제용 6번\obj\Debug\과제용 6번.csprojAssemblyReference.cache
+C:\Users\firstpc\source\repos\과제용 6번\과제용 6번\obj\Debug\과제용_6번.Form1.resources
+C:\Users\firstpc\source\repos\과제용 6번\과제용 6번\obj\Debug\과제용_6번.Properties.Resources.resources
+C:\Users\firstpc\source\repos\과제용 6번\과제용 6번\obj\Debug\과제용 6번.csproj.GenerateResource.cache
+C:\Users\firstpc\source\repos\과제용 6번\과제용 6번\obj\Debug\과제용 6번.csproj.CoreCompileInputs.cache
+C:\Users\firstpc\source\repos\과제용 6번\과제용 6번\obj\Debug\과제용 6번.exe
+C:\Users\firstpc\source\repos\과제용 6번\과제용 6번\obj\Debug\과제용 6번.pdb
