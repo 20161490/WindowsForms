@@ -1,0 +1,10 @@
+C:\Users\firstpc\source\repos\8주 10 번\8주 10 번\bin\Debug\8주 10 번.exe.config
+C:\Users\firstpc\source\repos\8주 10 번\8주 10 번\bin\Debug\8주 10 번.exe
+C:\Users\firstpc\source\repos\8주 10 번\8주 10 번\bin\Debug\8주 10 번.pdb
+C:\Users\firstpc\source\repos\8주 10 번\8주 10 번\obj\Debug\8주 10 번.csprojAssemblyReference.cache
+C:\Users\firstpc\source\repos\8주 10 번\8주 10 번\obj\Debug\_8주_10_번.Form1.resources
+C:\Users\firstpc\source\repos\8주 10 번\8주 10 번\obj\Debug\_8주_10_번.Properties.Resources.resources
+C:\Users\firstpc\source\repos\8주 10 번\8주 10 번\obj\Debug\8주 10 번.csproj.GenerateResource.cache
+C:\Users\firstpc\source\repos\8주 10 번\8주 10 번\obj\Debug\8주 10 번.csproj.CoreCompileInputs.cache
+C:\Users\firstpc\source\repos\8주 10 번\8주 10 번\obj\Debug\8주 10 번.exe
+C:\Users\firstpc\source\repos\8주 10 번\8주 10 번\obj\Debug\8주 10 번.pdb
