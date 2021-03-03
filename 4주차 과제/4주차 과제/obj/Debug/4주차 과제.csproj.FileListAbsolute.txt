@@ -1,0 +1,10 @@
+C:\Users\firstpc\source\repos\4주차 과제\4주차 과제\bin\Debug\4주차 과제.exe.config
+C:\Users\firstpc\source\repos\4주차 과제\4주차 과제\bin\Debug\4주차 과제.exe
+C:\Users\firstpc\source\repos\4주차 과제\4주차 과제\bin\Debug\4주차 과제.pdb
+C:\Users\firstpc\source\repos\4주차 과제\4주차 과제\obj\Debug\4주차 과제.csprojAssemblyReference.cache
+C:\Users\firstpc\source\repos\4주차 과제\4주차 과제\obj\Debug\_4주차_과제.Form1.resources
+C:\Users\firstpc\source\repos\4주차 과제\4주차 과제\obj\Debug\_4주차_과제.Properties.Resources.resources
+C:\Users\firstpc\source\repos\4주차 과제\4주차 과제\obj\Debug\4주차 과제.csproj.GenerateResource.cache
+C:\Users\firstpc\source\repos\4주차 과제\4주차 과제\obj\Debug\4주차 과제.csproj.CoreCompileInputs.cache
+C:\Users\firstpc\source\repos\4주차 과제\4주차 과제\obj\Debug\4주차 과제.exe
+C:\Users\firstpc\source\repos\4주차 과제\4주차 과제\obj\Debug\4주차 과제.pdb
