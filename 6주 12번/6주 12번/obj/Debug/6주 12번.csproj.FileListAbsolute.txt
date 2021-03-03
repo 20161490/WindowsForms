@@ -1,0 +1,10 @@
+C:\Users\firstpc\source\repos\6주 12번\6주 12번\bin\Debug\6주 12번.exe.config
+C:\Users\firstpc\source\repos\6주 12번\6주 12번\bin\Debug\6주 12번.exe
+C:\Users\firstpc\source\repos\6주 12번\6주 12번\bin\Debug\6주 12번.pdb
+C:\Users\firstpc\source\repos\6주 12번\6주 12번\obj\Debug\6주 12번.csprojAssemblyReference.cache
+C:\Users\firstpc\source\repos\6주 12번\6주 12번\obj\Debug\_6주_12번.Form1.resources
+C:\Users\firstpc\source\repos\6주 12번\6주 12번\obj\Debug\_6주_12번.Properties.Resources.resources
+C:\Users\firstpc\source\repos\6주 12번\6주 12번\obj\Debug\6주 12번.csproj.GenerateResource.cache
+C:\Users\firstpc\source\repos\6주 12번\6주 12번\obj\Debug\6주 12번.csproj.CoreCompileInputs.cache
+C:\Users\firstpc\source\repos\6주 12번\6주 12번\obj\Debug\6주 12번.exe
+C:\Users\firstpc\source\repos\6주 12번\6주 12번\obj\Debug\6주 12번.pdb
